@@ -1,0 +1,30 @@
+[
+    {
+        "user_id": "USR001",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "role": "Candidate",
+        "created_at": "2024-04-01"
+    },
+    {
+        "user_id": "USR002",
+        "name": "Damian Brali",
+        "email": "dam.bra@example.com",
+        "role": "Candidate",
+        "created_at": "2024-04-02"
+    },
+    {
+        "user_id": "USR003",
+        "name": "Aaron Joe",
+        "email": "aaron.joe@example.com",
+        "role": "Candidate",
+        "created_at": "2024-04-03"
+    },
+    {
+        "user_id": "USR004",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "role": "Candidate",
+        "created_at": "2024-04-15"
+    }
+]
