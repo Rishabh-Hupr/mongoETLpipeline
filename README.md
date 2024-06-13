@@ -1,4 +1,6 @@
-1. Create virtual environment of python using ``python3 -m venv <path>`` and then install all the requirements present in requirements.txt using ``pip3 install -r requirements.txt``
+# Bootstrapping instructions
+
+1. Create virtual environment of python using ``python3 -m venv <path>`` and activate it, then install all the requirements present in requirements.txt using ``pip3 install -r requirements.txt``
 2. Install and run mongoDB locally
     * My machine was MAC with Apple Sillicon so I followed the docs at https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
     * After installing mongoDB using brew, started the local server using ``brew services start mongodb-community@7.0``
